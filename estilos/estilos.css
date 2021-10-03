@@ -83,7 +83,7 @@ a {
     margin: auto;
     display: flex;
     flex-direction: column;
-    width: 1500px;
+    max-width: 100%;
     font-size: 15px;
     text-align: justify;
 }
